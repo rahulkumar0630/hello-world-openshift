@@ -8,6 +8,6 @@ import argparse
 app = Flask(__name__)
 
 
-    # Run Flask Application
-    app.run(host="0.0.0.0", port=8080)
+# Run Flask Application
+app.run(host="0.0.0.0", port=8080)
 
